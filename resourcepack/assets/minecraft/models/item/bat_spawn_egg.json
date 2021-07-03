@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/spawn_egg",
+		"layer1": "item/spawn_egg_overlay"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/poppy_seeds"},
+	{"predicate": {"custom_model_data":2}, "model": "item/dandelion_seeds"},
+	{"predicate": {"custom_model_data":3}, "model": "block/piston_head"},
+	{"predicate": {"custom_model_data":4}, "model": "block/forge"}
+	
+	]
+}

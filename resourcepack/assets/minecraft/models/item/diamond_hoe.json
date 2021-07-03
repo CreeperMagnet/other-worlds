@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/mimic"},
+		{"predicate": {"custom_model_data":2}, "model": "item/zephyr"},
+		{"predicate": {"custom_model_data":3}, "model": "item/shadow_fungling"},
+		{"predicate": {"custom_model_data":4}, "model": "item/purple_mush"},
+		{"predicate": {"custom_model_data":5}, "model": "block/icicle"}
+	]
+}

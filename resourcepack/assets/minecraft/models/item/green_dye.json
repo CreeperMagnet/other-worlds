@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/green_dye"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/durable_power_gem"},
+		{"predicate": {"custom_model_data":2}, "model": "item/enchanted_power_gem"}
+    ]
+}
