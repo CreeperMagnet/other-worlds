@@ -35,11 +35,11 @@
       [
         "minecraft:ore_gravel"
       ],
+      [],
       [
-        "etheria:mushroom_vegetation"
-      ],
-      [
-        "etheria:mushroom_grass"
+        "etheria:mushroom_vegetation",
+        "etheria:mushroom_grass_low",
+        "etheria:mushroom_grass_high"
       ],
       [
         "minecraft:brown_mushroom_normal",
